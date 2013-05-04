@@ -1,0 +1,1257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"RES",
+				"RESPONSE_CANCEL"
+			],
+			[
+				"ind",
+				"indication"
+			],
+			[
+				"dis",
+				"disconnect_req"
+			],
+			[
+				"shut",
+				"shutdown_req"
+			],
+			[
+				"disco",
+				"disconnection_ind"
+			],
+			[
+				"apply_",
+				"apply_updated_positions"
+			],
+			[
+				"board",
+				"boardmodel"
+			],
+			[
+				"update",
+				"updated_positions"
+			],
+			[
+				"BLACK",
+				"BLACK	Default"
+			],
+			[
+				"WHITE",
+				"WHITE"
+			],
+			[
+				"threads_leave",
+				"threads_leave	Default"
+			],
+			[
+				"threads_enter",
+				"threads_enter	Default"
+			],
+			[
+				"ints",
+				"ints"
+			],
+			[
+				"offset",
+				"offset"
+			],
+			[
+				"msg_size",
+				"msg_size"
+			],
+			[
+				"pdu_data",
+				"pdu_data"
+			],
+			[
+				"change",
+				"changed_positions"
+			],
+			[
+				"get",
+				"get_affected_positions(boardmodel, row, column, player)	(attribute, function)"
+			],
+			[
+				"Game",
+				"GameLogic	Default"
+			],
+			[
+				"winner",
+				"winner_pdu"
+			],
+			[
+				"None",
+				"None	Default"
+			],
+			[
+				"upda",
+				"update_board"
+			],
+			[
+				"PDU",
+				"PDUCodes"
+			],
+			[
+				"socket",
+				"socket_player_black"
+			],
+			[
+				"B",
+				"BLACK	Default"
+			],
+			[
+				"connecte",
+				"connected"
+			],
+			[
+				"socket_",
+				"socket_player_black	(attribute, instance)"
+			],
+			[
+				"your",
+				"yourturn"
+			],
+			[
+				"CONN",
+				"CONNECTED"
+			],
+			[
+				"msg_",
+				"msg_type"
+			],
+			[
+				"PLA",
+				"PLACE_ERROR	(attribute, instance)"
+			],
+			[
+				"recv",
+				"recv_ind"
+			],
+			[
+				"GameI",
+				"GameInstancePDUCodec	Default"
+			],
+			[
+				"dialog",
+				"dialogConnecting"
+			],
+			[
+				"disconn",
+				"disconnect_pdu"
+			],
+			[
+				"di",
+				"disconnection_ind"
+			],
+			[
+				"ReversiOffline",
+				"ReversiOffline"
+			],
+			[
+				"place",
+				"place_req"
+			],
+			[
+				"Play",
+				"Player	(imported, class)"
+			],
+			[
+				"conne",
+				"connect_req"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"_",
+				"__	__magic__"
+			],
+			[
+				"__",
+				"__init__	Default"
+			],
+			[
+				"Gale",
+				"GameClientState"
+			],
+			[
+				"GAM",
+				"GameClientState"
+			],
+			[
+				"conn",
+				"connection_req"
+			],
+			[
+				"Rever",
+				"ReversiGUI"
+			],
+			[
+				"ITCP",
+				"ITCPInd"
+			],
+			[
+				"ITC",
+				"ITCPReq"
+			],
+			[
+				"IT",
+				"ITCPReq"
+			],
+			[
+				"game",
+				"game_client"
+			],
+			[
+				"white",
+				"white_count"
+			],
+			[
+				"black",
+				"black_count"
+			],
+			[
+				"handle",
+				"handle_disconnection"
+			],
+			[
+				"socke",
+				"socket_player_black"
+			],
+			[
+				"turn",
+				"turn_pdu"
+			],
+			[
+				"Gam",
+				"GameServerPDUCodec"
+			],
+			[
+				"send",
+				"send_req"
+			],
+			[
+				"so",
+				"socket_player_black"
+			],
+			[
+				"GameC",
+				"GameClientPDUCodec"
+			],
+			[
+				"msg",
+				"msg_payload"
+			],
+			[
+				"Tur",
+				"TURN"
+			],
+			[
+				"Not",
+				"NotImplemented"
+			],
+			[
+				"WHI",
+				"WHITE_TURN"
+			],
+			[
+				"next",
+				"next_turn_player"
+			],
+			[
+				"blac",
+				"black_disk_count"
+			],
+			[
+				"whi",
+				"white_disk_count"
+			],
+			[
+				"sock",
+				"socket_player_white"
+			],
+			[
+				"player",
+				"socket_player_black"
+			],
+			[
+				"contex",
+				"context"
+			],
+			[
+				"Bla",
+				"BLACK_TURN"
+			],
+			[
+				"play",
+				"player_one"
+			],
+			[
+				"error",
+				"error_req"
+			],
+			[
+				"conte",
+				"context"
+			],
+			[
+				"plaer",
+				"socket_player_white"
+			],
+			[
+				"GAME",
+				"GAME_INSTANCE_BLACK_TURN"
+			],
+			[
+				"sockr",
+				"socket_player_white"
+			],
+			[
+				"soc",
+				"socket_player_white"
+			],
+			[
+				"cli",
+				"client"
+			],
+			[
+				"discon",
+				"disconnectionInd"
+			],
+			[
+				"liste",
+				"ListenPort"
+			],
+			[
+				"Main",
+				"MainClient"
+			],
+			[
+				"clie",
+				"clients"
+			],
+			[
+				"connect",
+				"connected_clients"
+			],
+			[
+				"input",
+				"input_ready"
+			],
+			[
+				"Re",
+				"ReservePDU"
+			],
+			[
+				"Sea",
+				"SearchPDU"
+			],
+			[
+				"Ser",
+				"SearchResultsPDU"
+			],
+			[
+				"deco",
+				"decode_reserve_pdu"
+			],
+			[
+				"decode",
+				"decode_search_pdu"
+			],
+			[
+				"reser",
+				"reserve_pdu"
+			],
+			[
+				"search",
+				"search_data"
+			],
+			[
+				"search_",
+				"search_data"
+			],
+			[
+				"criter",
+				"criteria_size"
+			],
+			[
+				"result",
+				"result_list"
+			],
+			[
+				"publi",
+				"publisher"
+			],
+			[
+				"pack",
+				"packed_list"
+			],
+			[
+				"res",
+				"result_id"
+			],
+			[
+				"auth",
+				"author_len"
+			],
+			[
+				"packe",
+				"packed_list"
+			],
+			[
+				"lit",
+				"listening_socket"
+			],
+			[
+				"sc",
+				"socket_player_black"
+			],
+			[
+				"list",
+				"listening_socket"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "GameServerTCP.py",
+			"settings":
+			{
+				"buffer_size": 3003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GameInstanceServerTCP.py",
+			"settings":
+			{
+				"buffer_size": 2355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GameInstanceServer.py",
+			"settings":
+			{
+				"buffer_size": 7968,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GameServer.py",
+			"settings":
+			{
+				"buffer_size": 3749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Reversi.py",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "boardmodel.py",
+			"settings":
+			{
+				"buffer_size": 1238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gamelogic.py",
+			"settings":
+			{
+				"buffer_size": 7003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PDUCodes.py",
+			"settings":
+			{
+				"buffer_size": 273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "player.py",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GameInstanceServerPDUCodec.py",
+			"settings":
+			{
+				"buffer_size": 1375,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"active",
+				"Package Control: Discover Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dia",
+				"Package Control: Disable Package"
+			],
+			[
+				"pep",
+				"PEP8: Format Code"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pe",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"PEP",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"PEP8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pepe",
+				"Package Control: Enable Package"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"py",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pyt",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/juen/lut-2013-cspa-reversi/src/GameClientPDUCodec.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameClientTCP.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameClient.py",
+		"/home/juen/lut-2013-cspa-reversi/src/ReversiGUI.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameInstanceServerPDUCodec.py",
+		"/home/juen/lut-2013-cspa-reversi/src/PDUCodes.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameServer.py",
+		"/home/juen/lut-2013-cspa-reversi/src/IGameInstanceServerPDU.py",
+		"/home/juen/lut-2013-cspa-reversi/src/IGameClientReq.py",
+		"/home/juen/lut-2013-cspa-reversi/src/IGameInstancePDU.py",
+		"/home/juen/lut-2013-cspa-reversi/src/Server.py",
+		"/home/juen/lut-2013-cspa-reversi/src/ITCPReq.py",
+		"/home/juen/lut-2013-cspa-reversi/src/ITCPInd.py",
+		"/home/juen/lut-2013-cspa-reversi/src/test.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameInstancePDUCodec.py",
+		"/home/juen/lut-2013-cspa-reversi/src/player.py",
+		"/home/juen/lut-2013-cspa-reversi/src/gamelogic.py",
+		"/home/juen/lut-2013-cspa-reversi/src/boardmodel.py",
+		"/home/juen/lut-2013-cspa-reversi/src/ReversiOffline.py",
+		"/home/juen/lut-2013-cspa-reversi/src/Reversi.py",
+		"/home/juen/lut-2013-cspa-reversi/src/IGameClientInd.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameServerPDUCodec.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameInstanceTCPServer.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameInstanceServer.py",
+		"/home/juen/.cache/.fr-wLUcA6/line_follower/line_follower.c",
+		"/home/juen/nxtOSEK/ecrobot/tool_gcc.mak",
+		"/home/juen/nxtOSEK/README.txt",
+		"/home/juen/.cache/.fr-GcaUfW/line_follower/line_follower.oil",
+		"/home/juen/Downloads/Visual_Paradigm_for_UML_CE_10.1/scripts/VP-UML.sh",
+		"/home/juen/Downloads/build_arm_toolchain.sh",
+		"/home/juen/lut-2013-cspa-reversi/src/reversi.sublime-workspace",
+		"/home/juen/.cache/.fr-A7MENk/nxtOSEK/README.txt",
+		"/home/juen/lut-2013-cspa-reversi/src/IGameClientPDU.py",
+		"/home/juen/lut-2013-cspa-reversi/src/interface.glade",
+		"/usr/share/applications/nautilus.desktop",
+		"/home/juen/.config/sublime-text-2/Packages/Python/__magic__.sublime-snippet",
+		"/home/juen/Desktop/asdasdad.glade",
+		"/home/juen/lut-2013-cspa-reversi/src/TCPServer.py",
+		"/home/juen/lut-2013-cspa-reversi/src/Player.py",
+		"/home/juen/lut-2013-cspa-reversi/src/GameTCPClient.py",
+		"/home/juen/.config/sublime-text-2/Packages/User/Pep8Lint.sublime-settings",
+		"/home/juen/.config/sublime-text-2/Packages/Python Pep8 Lint/Pep8Lint.sublime-settings",
+		"/home/juen/.config/sublime-text-2/Packages/Python Pep8 Lint/pep8.py",
+		"/home/juen/.config/sublime-text-2/Packages/Python Pep8 Lint/README.md",
+		"/home/juen/.config/sublime-text-2/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/home/juen/.config/sublime-text-2/Packages/Python Pep8 Lint/Pep8Lint.py",
+		"/home/juen/.config/sublime-text-2/Packages/Python Pep8 Lint/package-metadata.json",
+		"/home/juen/.config/sublime-text-2/Packages/Python Pep8 Lint/Main.sublime-menu",
+		"/home/juen/.config/sublime-text-2/Packages/Python Pep8 Lint/Default (Windows).sublime-keymap",
+		"/home/juen/.config/sublime-text-2/Packages/Vintage/README.TXT",
+		"/home/juen/.config/sublime-text-2/Packages/Pep8Lint/Pep8Lint.sublime-settings",
+		"/home/juen/.config/sublime-text-2/Packages/AutoPEP8/Default (Linux).sublime-keymap",
+		"/home/juen/.config/sublime-text-2/Packages/User/AutoPep8.sublime-settings",
+		"/home/juen/.config/sublime-text-2/Packages/Python Imports Sorter/Default.sublime-settings",
+		"/home/juen/.config/sublime-text-2/Packages/Pep8Lint/Default (Linux).sublime-keymap",
+		"/home/juen/lut-2013-cspa-reversi/src/IGameServerPDU.py",
+		"/home/juen/lut-2013-cspa-reversi/src/ReversiOnline.py",
+		"/home/juen/lut-2013-cspa-reversi/src/serializer.py",
+		"/home/juen/.config/sublime-text-2/Packages/AutoPep8/AutoPep8.sublime-settings",
+		"/home/juen/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/run/user/juen/gvfs/archive:host=file%253A%252F%252F%252Fmedia%252Fjuen%252FMy%252520Passport%252Fz%252520Skyrim%252520Stuff%252520z.zip/Skyrim Stuff/Read Me - Installation.txt",
+		"/home/juen/lut-2013-cspa-reversi/src/GameInstance.py",
+		"/home/juen/lut-2013-cspa-reversi/src/reversi.sublime-project",
+		"/home/juen/lut-2013-cspa-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/util/common.py",
+		"/home/juen/lut-2013-cspa-reversi/ITCPReq.py",
+		"/home/juen/lut-2013-cspa-reversi/ITCPInd.py",
+		"/home/juen/lut-2013-cspa-reversi/Reversi.py",
+		"/home/juen/lut-2013-cspa-reversi/reversi.py",
+		"/home/juen/lut-2013-cspa-reversi/GameServerPDUCodec.py",
+		"/home/juen/lut-2013-cspa-reversi/boardmodel.py",
+		"/home/juen/lut-2013-cspa-reversi/GameInstance.py",
+		"/home/juen/lut-2013-cspa-reversi/PDUCodes.py",
+		"/home/juen/lut-2013-cspa-reversi/gamelogic.py",
+		"/home/juen/lut-2013-cspa-reversi/player.py",
+		"/home/juen/lut-2013-cspa-reversi/IGameServerReq.py",
+		"/home/juen/lut-2013-cspa-reversi/IGameServerInd.py",
+		"/home/juen/lut-2013-cspa-reversi/IGameClientPDU.py",
+		"/home/juen/lut-2013-cspa-reversi/IGameServerPDU.py",
+		"/home/juen/lut-2013-cspa-reversi/test.py",
+		"/home/juen/lut-2013-cspa-reversi/GameServer.py",
+		"/home/juen/lut-2013-cspa-reversi/GameInstancePDUCodec.py",
+		"/home/juen/lut-2013-cspa-reversi/GameClientPDUCode.py",
+		"/home/juen/lut-2013-cspa-reversi/IGameInstancePDU.py",
+		"/home/juen/lut-2013-cspa-reversi/IGameClient.py",
+		"/home/juen/httpd-2.4.4/server/main.c",
+		"/home/juen/tictactoe/ttt_tcp2.py",
+		"/home/juen/tictactoe/ttt_ui.py",
+		"/home/juen/tictactoe/ttt_main_server.py",
+		"/home/juen/tictactoe/ttt_main_client.py",
+		"/home/juen/tictactoe/ttt_interfaces.py",
+		"/home/juen/tictactoe/ttt_game.py",
+		"/home/juen/tictactoe/ttt_comm.py",
+		"/home/juen/tictactoe/ttt_codec.py",
+		"/home/juen/tictactoe/ttt_bases.py",
+		"/home/juen/tictactoe/__init__.py",
+		"/home/juen/lut-cspa2013-reversi/PDUCodes.py",
+		"/home/juen/tictactoe/ttt_",
+		"/home/juen/MPI-MandelbrotSet/README.md",
+		"/home/juen/asd/PDUCodes.py",
+		"/home/juen/lut-cspa2013-reversi/IGameServerPDU.py",
+		"/home/juen/.cache/.fr-8rgrAZ/system/getdev.c",
+		"/home/juen/lut-cspa2013-reversi/IGameInstance.py",
+		"/home/juen/lut-cspa2013-reversi/IGameClient.py",
+		"/home/juen/lut-cspa2013-reversi/GameInstance.py",
+		"/home/juen/lut-cspa2013-reversi/GameServer.py",
+		"/home/juen/lut-cspa2013-reversi/boardmodel.py",
+		"/home/juen/lut-cspa2013-reversi/player.py",
+		"/home/juen/lut-cspa2013-reversi/reversi.py",
+		"/home/juen/lut-cspa2013-reversi/serializer.py",
+		"/home/juen/lut-cspa2013-reversi/Reversi documentation.pdf",
+		"/home/juen/lut-cspa2013-reversi/gamelogic.py",
+		"/home/juen/lut-cspa2013-reversi/Server.py",
+		"/home/juen/lut-cspa2013-reversi/gui.py",
+		"/home/juen/lut-cspa2013-reversi/boardview.py",
+		"/home/juen/lut-cspa2013-reversi/boardcontroller.py",
+		"/home/juen/lut-cspa2013-reversi/serverdummy.py",
+		"/home/juen/Documents/hw5.py",
+		"/home/juen/lut-cspa2013-reversi/pdus.py",
+		"/home/juen/lut-cspa2013-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/fgp/FGPServer.py",
+		"/usr/share/applications/sublime.desktop",
+		"/home/juen/lut-cspa2013-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/server/GameServer.py",
+		"/home/juen/lut-cspa2013-reversi/gameInstance.py",
+		"/home/juen/lut-cspa2013-reversi/server.py",
+		"/home/juen/lut-cspa2013-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/server/GameSession.py",
+		"/home/juen/lut-cspa2013-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/fgp/FGPClient.py",
+		"/home/juen/lut-cspa2013-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/fgp/FGPSession.py",
+		"/home/juen/lut-cspa2013-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/interfaces/IFGPSessInd.py",
+		"/home/juen/lut-cspa2013-reversi/cspa-2011-impl-v2-Laine-Paraschou/src/interfaces/IFGPCInd.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reuse",
+			"update_board",
+			"update_boar",
+			"connect",
+			"connected",
+			"connecte",
+			"draw",
+			"disconnection",
+			"try",
+			"dialogDis",
+			"disconnection",
+			"self.disco",
+			"disconnection_",
+			"disconnected",
+			"disconnec",
+			"connecting",
+			"run()",
+			"event",
+			"ERROR",
+			"shutdown_req",
+			"start_game",
+			"dialogConnect",
+			"connect_dialo",
+			"IDLE",
+			"shutdown_ind",
+			"self.request",
+			"TCP",
+			"IGameServerPDU",
+			"winner_pdu",
+			"start_game",
+			"start(",
+			"start_game",
+			"handle_disconnection",
+			"start_game",
+			"socket",
+			"TCPServer",
+			"ServerTCP",
+			"TCPServer(",
+			"TCPServer",
+			"gamelogic",
+			"board",
+			"draw_affec",
+			"pending",
+			"self",
+			"pending_draw",
+			"pending",
+			"draw_affecte",
+			"draw_affected",
+			"draw_cell",
+			"moved",
+			"draw_cell",
+			"self.draw(",
+			"self.draw",
+			"updated_board",
+			"draw_cell",
+			"board_mo",
+			"updated_board",
+			"update_board",
+			"update_boar",
+			"update_status_bar",
+			"self.req",
+			"request.board_model",
+			"boardmodel",
+			"board_model",
+			"request",
+			"boardmodel",
+			"updated_board",
+			"boardmodel",
+			"update_board",
+			"updated_board",
+			"update_board_ind",
+			"boardmodel",
+			"gamelogic",
+			"self.board",
+			"self.boardmodel",
+			"updated_board_ind",
+			"boardmodel",
+			"pending",
+			"boardmodel",
+			"board_model",
+			"boardmodel",
+			"board_",
+			"board_m",
+			"updated_board",
+			"update_board",
+			"initial_board_as_affected_positions",
+			"gameLogic",
+			"board",
+			"boardModel",
+			"move",
+			"set_ui_dis",
+			"set_ui_di",
+			"hint",
+			"ht",
+			"connect",
+			"disconnect",
+			"self.toolbuttonShowHint",
+			"toolbut",
+			"hint",
+			"connected",
+			"showHint",
+			"showHi",
+			"gobject.threads_init()",
+			"gtk.gdk.threads_init()",
+			"print",
+			"lock",
+			"self.sema",
+			"send_req",
+			"init",
+			"threading",
+			"GameTCPClient",
+			"shutdown",
+			"range( ",
+			"range(0",
+			"range(0,",
+			"range(0",
+			"send(",
+			"draw_affected_positions",
+			"self.player =",
+			"draw_affected_positions",
+			"update_board_pdu",
+			"self.player",
+			"update_boar",
+			"update_board_pdu",
+			"update_board",
+			"updated_board_ind",
+			"boardmodel",
+			"gamelog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DISCONNECTED",
+			"self.request.board_model",
+			"range(",
+			"struct.unpack",
+			"struct.pack",
+			"",
+			"struct.unpack",
+			"struct.pack",
+			"struct.unpack",
+			"struct.pack",
+			"show_dialog_connect",
+			"hide_dialog_connect",
+			"show_dialog_about",
+			"hide_dialog_about",
+			"load_resources",
+			"resize_drawing_area",
+			"draw_cell",
+			"draw_affected_positions",
+			"update_status_bar",
+			"# -*- coding: utf-8 -*-",
+			"",
+			"client",
+			"",
+			"()",
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "GameServerTCP.py",
+					"settings":
+					{
+						"buffer_size": 3003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "GameInstanceServerTCP.py",
+					"settings":
+					{
+						"buffer_size": 2355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1205,
+								1205
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "GameInstanceServer.py",
+					"settings":
+					{
+						"buffer_size": 7968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2538,
+								2538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "GameServer.py",
+					"settings":
+					{
+						"buffer_size": 3749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Reversi.py",
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "boardmodel.py",
+					"settings":
+					{
+						"buffer_size": 1238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "gamelogic.py",
+					"settings":
+					{
+						"buffer_size": 7003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "PDUCodes.py",
+					"settings":
+					{
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "player.py",
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "GameInstanceServerPDUCodec.py",
+					"settings":
+					{
+						"buffer_size": 1375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 537.0
+	},
+	"replace":
+	{
+		"height": 81.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}
