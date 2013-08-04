@@ -11,8 +11,8 @@ pygtk.require("2.0")
 import gtk
 import gtk.glade
 
-from player import Player
-from gamelogic import GameLogic
+from Player import Player
+from GameLogic import GameLogic
 from GameClient import GameClient
 from IGameClientInd import IGameClientInd
 

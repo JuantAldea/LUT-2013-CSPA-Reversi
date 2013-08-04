@@ -5,7 +5,7 @@
 # CSPA - LUT - 2013             #
 #################################
 
-from player import Player
+from Player import Player
 
 
 class GameLogic(object):

@@ -8,13 +8,13 @@
 from random import shuffle
 
 from PDUCodes import PDUCodes
-from boardmodel import BoardModel
-from gamelogic import GameLogic
+from BoardModel import BoardModel
+from GameLogic import GameLogic
 from GameInstanceServerPDUCodec import GameInstanceServerPDUCodec
 from GameInstanceServerTCP import GameInstanceServerTCP
 from GameClientPDUCodec import GameClientPDUCodec
 from ITCPInd import ITCPInd
-from player import Player
+from Player import Player
 
 
 class GameInstanceState:

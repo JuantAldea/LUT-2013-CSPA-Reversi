@@ -12,8 +12,8 @@ from GameInstanceServerPDUCodec import GameInstanceServerPDUCodec
 from GameClientPDUCodec import GameClientPDUCodec
 from PDUCodes import PDUCodes
 from GameClientTCP import GameClientTCP
-from boardmodel import BoardModel
-from gamelogic import GameLogic
+from BoardModel import BoardModel
+from GameLogic import GameLogic
 
 
 class GameClientState:

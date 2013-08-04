@@ -19,9 +19,9 @@ try:
 except:
     sys.exit(1)
 
-from player import *
-from boardmodel import *
-from gamelogic import *
+from Player import *
+from BoardModel import *
+from GameLogic import *
 
 
 class ReversiOffline(object):
