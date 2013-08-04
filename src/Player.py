@@ -1,4 +1,4 @@
-# pyReversi is a multiplayer reversi game with dedicated server
+# Reversi is a multiplayer reversi game with dedicated server
 # Copyright (C) 2012-2013, Juan Antonio Aldea Armenteros
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

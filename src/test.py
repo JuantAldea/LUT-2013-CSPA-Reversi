@@ -1,5 +1,6 @@
 #!/usr/bin/python2.7
-# pyReversi is a multiplayer reversi game with dedicated server
+
+# Reversi is a multiplayer reversi game with dedicated server
 # Copyright (C) 2012-2013, Juan Antonio Aldea Armenteros
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -15,6 +16,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 # -*- coding: utf8 -*-
+
 import select
 import sys
 from socket import *
