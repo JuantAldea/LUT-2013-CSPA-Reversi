@@ -6,3 +6,5 @@ Reversi Game development for the LUT course Communications Software Protocols an
 For more information check doc/specification.pdf
 
 Dependencies: PyGTK
+
+![Reversi screenshot](/doc/Reversi.png?raw=true "Screenshot")
